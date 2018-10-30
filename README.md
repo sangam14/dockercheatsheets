@@ -228,7 +228,6 @@ that label-values can span multiple lines."
 ```
 
 ## See also
-{: .-one-column}
 
 - <https://docs.docker.com/engine/reference/builder/>
 
@@ -376,7 +375,7 @@ web:
 ```
 
 ## Advanced features
-{: .-three-column}
+
 
 ### Labels
 
