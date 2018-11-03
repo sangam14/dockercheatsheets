@@ -1,7 +1,7 @@
 # Perfect dockercheatsheets
 
 Full Dockercheatsheets 
-![full](https://github.com/sangam14/dockercheatsheets/blob/master/dockercheatsheet2.png)
+![full](https://github.com/sangam14/dockercheatsheets/blob/master/dockercheatsheet8.png)
 
  Container Management Commands 
 ![container_management](https://github.com/sangam14/dockercheatsheets/blob/master/dockercheatsheet1.png)
