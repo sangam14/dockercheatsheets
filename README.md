@@ -1,20 +1,20 @@
 # Perfect dockercheatsheets
 
 Full Dockercheatsheets 
-![full](https://github.com/sangam14/dockercheatsheets/blob/master/Screenshot%202018-10-30%20at%2010.51.27%20PM.png)
+![full](https://github.com/sangam14/dockercheatsheets/blob/master/dockercheatsheet2.png)
 
  Container Management Commands 
-![container_management](https://github.com/sangam14/dockercheatsheets/blob/master/Screenshot%202018-10-30%20at%2010.51.12%20PM.png)
+![container_management](https://github.com/sangam14/dockercheatsheets/blob/master/dockercheatsheet1.png)
 
 Inspecting The Container 
-![Inspecting The Container](https://github.com/sangam14/dockercheatsheets/blob/master/Screenshot%202018-10-30%20at%2010.51.54%20PM.png)
-![Inspecting The Container1](https://github.com/sangam14/dockercheatsheets/blob/master/Screenshot%202018-10-30%20at%2010.52.04%20PM.png)
+![Inspecting The Container](https://github.com/sangam14/dockercheatsheets/blob/master/dockercheatsheet3.png)
+![Interacting with Container1](https://github.com/sangam14/dockercheatsheets/blob/master/dockercheatsheet4.png)
  Image Management Commands 
- ![image management commands](https://github.com/sangam14/dockercheatsheets/blob/master/Screenshot%202018-10-30%20at%2010.52.33%20PM.png)
+ ![image management commands](https://github.com/sangam14/dockercheatsheets/blob/master/dockercheatsheet5.png)
  Image Transfer Comnands 
- ![Image Transfer Comnands](https://github.com/sangam14/dockercheatsheets/blob/master/Screenshot%202018-10-30%20at%2010.52.56%20PM.png)
+ ![Image Transfer Comnands](https://github.com/sangam14/dockercheatsheets/blob/master/dockercheatsheet6.png)
  Builder Main Commands
-![Builder Main Commands](https://github.com/sangam14/dockercheatsheets/blob/master/Screenshot%202018-10-30%20at%2010.53.08%20PM.png)
+![Builder Main Commands](https://github.com/sangam14/dockercheatsheets/blob/master/dockercheatsheet7.png)
 
 
 
