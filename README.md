@@ -427,6 +427,6 @@ services:
 
 ## Contributor - 
 
-Sangam biradar - smbiradar14@gmail.com - https://engineitops.github.io
+Sangam biradar - smbiradar14@gmail.com - https://discord.kubedaily.live 
 
 
